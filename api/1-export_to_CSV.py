@@ -34,9 +34,8 @@ def main():
             for item in row:
                 str(item)
             csv_writer.writerow(row)
-        print('the file is written successfully')
+        print('file written successfully')
 
 
 if __name__ == "__main__":
     main()
-    
