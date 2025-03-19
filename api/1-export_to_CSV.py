@@ -6,6 +6,7 @@ import csv
 import requests
 import sys
 
+
 def main():
     """main function"""
     user_id = int(sys.argv[1])
